@@ -1,0 +1,4 @@
+ppkenv/
+paperkite/paperkite/settings.py
+*.pyc
+paperkite/db.sqlite3
